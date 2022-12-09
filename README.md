@@ -6,4 +6,4 @@ The projects can be seen using the following links:
 - ## First project
 On this project the objective is to make predictions of energy consumption using **Prophet** library.
 
-The program file can be found [here](predictions.ipynb)
+The program file can be found [here](prophet/predictions.ipynb)
